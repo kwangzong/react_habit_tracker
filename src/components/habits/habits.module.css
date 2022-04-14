@@ -1,0 +1,19 @@
+.habits {
+    display: flex;
+    flex-direction: column;
+    padding : 10px;
+}
+
+ul {
+    padding: 0;
+}
+
+.reset {
+    cursor: pointer;
+    width: 40px;
+    height: 20px;
+}
+
+.reset:hover {
+    background-color: aquamarine;
+}

@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+button {
+  outline: none;
+  border: 0;
+  cursor: pointer;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(41, 98, 148);
+  width: 500px;
+  height: 100vh;
+}
